@@ -2,26 +2,26 @@
 <h3 align="center">Explorer</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=doshitarun02-creator">
-    <img src="https://komarev.com/ghpvc/?username=doshitarun02-creator&label=Profile%20views&color=00FFFF&style=flat-square" alt="doshitarun02-creator's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=Pirateking-02-creator">
+    <img src="https://komarev.com/ghpvc/?username=Pirateking-02&label=Profile%20views&color=00FFFF&style=flat-square" alt="Pirateking-02's profile views" />
   </a>
 </p>
 
 <img src="https://i.pinimg.com/originals/d0/97/9b/d0979b26cec609049b3d1a3dee5b89b3.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
-[![trophy](https://github-profile-trophy.vercel.app/doshitarun02-creator=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/Pirateking-02=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
-  <a href="https://github.com/doshitarun02-creator">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=doshitarun02-creator&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="doshitarun02-creator's GitHub Stats" />
+  <a href="https://github.com/Pirateking-02">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pirateking-02&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="Pirateking-02's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=doshitarun02-creator&theme=merko&hide_border=true&cache_seconds=86400" alt="doshitarun02-creator's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Pirateking-02&theme=merko&hide_border=true&cache_seconds=86400" alt="Pirateking-02's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=doshitarun02-creator&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shrawan Doshi's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Pirateking-02&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shrawan Doshi's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=doshitarun02-creator&theme=merko&radius=10" alt="doshitarun02-creator's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Pirateking-02&theme=merko&radius=10" alt="Pirateking-02's Activity Graph" />
 </p>
 
 
@@ -86,12 +86,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/doshitarun02-creator">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=doshitarun02-creator&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/Pirateking-02">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pirateking-02&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=doshitarun02-creator)
+![Top language](https://stats.pphat.top/languages?username=Pirateking-02)
 <br/>
 
 ## 🔗 Connect with Me
